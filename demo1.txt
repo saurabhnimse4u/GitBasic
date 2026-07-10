@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Changes by user 1
+=======
+<<<<<<< HEAD
+Hey I'm Demo1 and Just updated
+
+User 2 I want to change
+=======
+User 1 changes Hey I'm Demo1 and Just updated
+>>>>>>> 464271a36405a3382d43bc9f5b22c3dd55232dfe
+>>>>>>> 1bf1c433c478a7d964cd547f1bfe770185223f9e

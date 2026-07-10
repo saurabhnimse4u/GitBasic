@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Hey this is me Demo2 
+User 2 doing change
+=======
 User 1 changes Hey this is me Demo2 
+>>>>>>> 464271a36405a3382d43bc9f5b22c3dd55232dfe
