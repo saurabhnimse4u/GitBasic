@@ -1,0 +1,5 @@
+Branching learning 
+git checkout -b devBranch   -- to create new branch
+then 
+git push origin devBranch  -- now new code added to this branch and we can see the branch in system
+                               also changes made will only apply this branch
